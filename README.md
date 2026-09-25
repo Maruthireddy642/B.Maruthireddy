@@ -1,114 +1,40 @@
+<div align="center">
+
 # 👋 Hi, I'm B. Maruthi Reddy
 
-### 🚀 Data Science Engineer | AI/ML Developer
+### 🚀 Data Science Engineer | AI/ML Developer | Python Developer
 
-I'm a final-year Computer Science Engineering student specializing in
-Data Science, passionate about building intelligent applications,
-machine learning systems, and data-driven solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Science+Engineer;AI%2FML+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Real-World+AI+Solutions" />
 
-I enjoy turning real-world problems into practical software using
-Python, Machine Learning, SQL, and modern AI technologies.
+<br/>
 
----
+<a href="https://github.com/Maruthireddy642">
+<img src="https://komarev.com/ghpvc/?username=Maruthireddy642&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 
-## 🧠 About Me
+<a href="https://github.com/Maruthireddy642?tab=followers">
+<img src="https://img.shields.io/github/followers/Maruthireddy642?label=Followers&style=flat" />
+</a>
 
-- 🎓 Computer Science & Engineering — Data Science
-- 💻 Focused on Data Science, Machine Learning & AI
-- 🐍 Python Developer
-- 📊 Interested in Data Analytics and Predictive Modeling
-- 🤖 Building AI-powered applications
-- 🌱 Currently improving my skills in ML Engineering and AI
-- 🚀 Open to internships and entry-level opportunities
+<a href="https://github.com/Maruthireddy642?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-17-blue?style=flat" />
+</a>
 
----
-
-## 🛠️ Tech Stack
-
-### Programming
-Python • Java • C • JavaScript • SQL
-
-### Data Science
-Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
-
-### Machine Learning
-Regression • Classification • Clustering • Random Forest
-XGBoost • LightGBM • CatBoost • SMOTE
-
-### AI & Backend
-Django • FastAPI • REST APIs • Generative AI • RAG
-
-### Databases
-MySQL • MongoDB
-
-### Tools
-Git • GitHub • Jupyter Notebook • VS Code
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 About Me
 
-### 🏥 InsureSync AI
-AI-powered insurance recommendation and claims intelligence
-platform using Machine Learning, AI, RAG and real-time analytics.
+I'm a **final-year Computer Science & Engineering student specializing in Data Science**, passionate about building practical solutions using **Data Science, Machine Learning, Artificial Intelligence and Backend Development**.
 
-🔗 [View Project](https://github.com/Maruthireddy642/InsureSync-AI-Smart-Insurance-Recommendations-System)
+I enjoy taking a problem from **data → analysis → machine learning → API → application**.
 
----
-
-### 📉 Customer Churn Prediction
-Machine learning system for predicting customer churn using
-classification algorithms and data preprocessing techniques.
-
-🔗 [View Project](https://github.com/Maruthireddy642/Customer-Churn-Prediction-API)
-
----
-
-### 📊 Exploratory Data Analysis
-Data analysis project focused on discovering patterns,
-relationships and insights from real-world datasets.
-
-🔗 [View Project](https://github.com/Maruthireddy642/EDA_project)
-
----
-
-### 🤖 AI Teacher
-AI-powered classroom management and teaching assistant
-application built using Django.
-
-🔗 [View Project](https://github.com/Maruthireddy642/AI-Teacher-Django-Based-Classroom-System)
-
----
-
-## 📈 What I'm Working On
-
-- 🔬 Machine Learning projects
-- 🤖 AI-powered applications
-- 📊 Data Analytics
-- ⚙️ ML APIs and deployment
-- 🧠 Generative AI and RAG
-
----
-
-## 🏆 Achievements
-
-- 🏫 Conducted AI & Python workshops for 150+ students
-- 💻 Participated in hackathons
-- 👨‍💼 EEC Member — ALVAS Pragati
-- 🏑 Hockey Player
-
----
-
-## 📫 Connect With Me
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn:
-https://www.linkedin.com/in/b-maruthi-reddy/
-
-🐙 GitHub:
-https://github.com/Maruthireddy642
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+🎓 Computer Science & Engineering — Data Science
+💡 Interested in Data Science, AI/ML & Software Development
+🐍 Python Developer
+📊 Data Analytics & Predictive Modeling
+🤖 AI-powered Applications
+⚙️ Machine Learning APIs & Backend Systems
+🚀 Open to Internships & Entry-Level Opportunities
